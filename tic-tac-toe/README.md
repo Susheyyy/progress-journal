@@ -22,7 +22,8 @@ A classic Tic-Tac-Toe game built from scratch using Java and Swing. This project
 <b> <h3> ⚝ Tech Stack: </b></h3>
 
 1. Programming Language: Java  
-2. GUI Library: Swing (JFrame, JPanel, JLabel, JButton) 
+2. GUI Library: Swing (JFrame, JPanel, JLabel, JButton)
+<hr>
 
 <b> <h3> ⚝ Installation & Run: </b></h3>
 - Clone or Download the repository 
